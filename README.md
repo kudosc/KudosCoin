@@ -1,6 +1,9 @@
 
 KUDOSCOIN
-
+<p align="center">
+  <img src="https://image.ibb.co/i8TKjG/Kudos_Coin_Wallet_Icon_Testnet.png" width="350"/>
+  <img src="https://image.ibb.co/i8TKjG/Kudos_Coin_Wallet_Icon_Testnet.png" width="350"/>
+</p>
 KudosCoin or KUDOS for short, the coins issued by Kudos Blockchain Asset Exchange Platform. KudosCoin is a decentralized cryptocurrency Intended to target new and in experienced Bitcoin and Alternative Currency enthusiasts a new fresh currency from which to trade, mine and stake and be a part of a world class cryptocurrency exchange.    
 
 KudosCoin (KUDOS) will embrace electronic transfer of goods, small business and online purchases.  Also trading and staking in the online community driven completely by supply and demand. In the online exchanges quickly gaining trust and respect amount is valued members and traders.   
