@@ -1,0 +1,1 @@
+ /* this folder should have 755 folder right permissions */
